@@ -16,4 +16,9 @@ public class Hello {
     public String info(){
         return "Hello Info";
     }
+
+    //开发修改
+    public void test(){
+
+    }
 }
